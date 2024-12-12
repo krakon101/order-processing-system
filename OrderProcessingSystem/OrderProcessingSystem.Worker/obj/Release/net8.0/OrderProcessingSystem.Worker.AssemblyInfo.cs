@@ -11,12 +11,8 @@
 using System;
 using System.Reflection;
 
-<<<<<<< Updated upstream
-=======
-[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("dotnet-OrderProcessingSystem.Worker-3490111a-1d40-4139-8db5-662d9587b037")]
->>>>>>> Stashed changes
 [assembly: System.Reflection.AssemblyCompanyAttribute("OrderProcessingSystem.Worker")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c5432ee53159dc2385f89e751e049f723a8cd358")]
 [assembly: System.Reflection.AssemblyProductAttribute("OrderProcessingSystem.Worker")]

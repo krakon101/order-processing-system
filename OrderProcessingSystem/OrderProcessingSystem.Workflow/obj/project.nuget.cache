@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "8Nzf5A4Rlrg=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bhara\\OneDrive\\Desktop\\projects\\backend\\order-processing-system\\OrderProcessingSystem\\OrderProcessingSystem.Workflow\\OrderProcessingSystem.Workflows.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bhara\\.nuget\\packages\\google.protobuf\\3.26.1\\google.protobuf.3.26.1.nupkg.sha512",
+    "C:\\Users\\bhara\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\2.2.0\\microsoft.extensions.logging.abstractions.2.2.0.nupkg.sha512",
+    "C:\\Users\\bhara\\.nuget\\packages\\questpdf\\2024.12.1\\questpdf.2024.12.1.nupkg.sha512",
+    "C:\\Users\\bhara\\.nuget\\packages\\temporalio\\1.3.1\\temporalio.1.3.1.nupkg.sha512"
+  ],
+  "logs": []
+}
