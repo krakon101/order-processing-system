@@ -1,0 +1,66 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.cache
+*.log
+*.ilk
+*.ipdb
+*.iobj
+*.tlog
+*.lastbuildstate
+*.obj
+*.pch
+*.pdb
+*.idb
+*.opensdf
+*.sdf
+
+# Build results
+bin/
+obj/
+Debug/
+Release/
+x64/
+x86/
+
+# Rider and JetBrains
+.idea/
+*.sln.iml
+
+# Packages
+*.nupkg
+*.snupkg
+packages/
+
+# Dependency directories
+node_modules/
+bower_components/
+
+# Logs and database
+*.log
+*.sql
+*.sqlite
+*.sqlite3
+
+# Environment
+.env
+.env.local
+
+# Coverage and reports
+*.coverage
+*.coveragexml
+*.testresults
+TestResults/
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.swp
+*~
+
+# Configurations
+appsettings.Development.json
+appsettings.Staging.json
+appsettings.Production.json
